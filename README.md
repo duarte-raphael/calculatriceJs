@@ -60,15 +60,6 @@ Programmer une calculatrice qui puissent faire des calcule simple tel que l'addi
 
 Ici indiqué les technologie utilisé, tel que les language de programmation, les framework, et autre logiciel tel que trello, photoshop ...
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -141,9 +132,9 @@ Distribué sous la licence MIT. Voir `LICENSE.txt` pour plus d'informations.
 <!-- CONTACT -->
 ## Contact
 
-duarte raphael - [@ton_twitter](https://twitter.com/your_username) - email@example.com
+duarte raphael - [@ton_twitter](https://twitter.com/your_username) - rafael.duarte@outlook.fr
 
-Lien du project: [https://github.com/your_username/repo_name](https://github.com/ton_nom/nom_repositories)
+Lien du project: https://github.com/duarte-raphael/calculatriceJs.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,14 +145,6 @@ Lien du project: [https://github.com/your_username/repo_name](https://github.com
 
 Merci pour votre visionnage
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
