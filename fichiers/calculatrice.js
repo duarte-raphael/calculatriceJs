@@ -1,3 +1,5 @@
+
+
 //fonction qui recupere l'operation et renvoie le resultat
 function calculer() 
 { 
@@ -23,3 +25,10 @@ function effacer()
 { 
     document.getElementById("ecran").value = "" 
 } 
+
+// gerer la touche entrée
+document.addEventListener('keydown', (e) => {
+    if (e.key=="Enter") {
+        calculer()
+    }
+})
